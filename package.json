@@ -1,0 +1,12 @@
+{
+  "name": "wanderbot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "botbuilder": "^4.20.0",
+    "restify": "^11.1.0"
+  }
+}
